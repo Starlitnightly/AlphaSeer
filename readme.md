@@ -103,3 +103,8 @@ python logon_new.py
 ```
 
 ![pyqt](img/pyqt.png)
+
+
+## 其他说明
+
+未经许可，禁止用于任何商业用途，请遵循GPL3.0协议
