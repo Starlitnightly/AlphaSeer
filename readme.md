@@ -4,7 +4,8 @@
 
 > **作者**
 >
-> 星夜(Starlitnightly@163.com)
+> 仓库地址: https://github.com/Starlitnightly/AlphaSeer/
+> 星夜: Starlitnightly@163.com
 
 ## 文件目录
 
